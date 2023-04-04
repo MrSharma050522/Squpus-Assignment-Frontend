@@ -1,0 +1,13 @@
+.h1 {
+  color: blue;
+  padding-left: 10px;
+  font-family: cursive;
+}
+.navstyle {
+  background-color: #497285;
+  box-shadow: 0px 0px 10px red;
+}
+
+.navLink {
+  color: #240747;
+}
